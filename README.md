@@ -7,7 +7,7 @@
 
  - Objective 
  - Data Understanding
- - Dataset Descriprition
+ - Dataset Description
  - Exploratory Data Analysis
  - Conclusion
 
@@ -23,7 +23,7 @@ The dataset appears to be related to credit card usage and customer behavior. It
 
  
  
-##  Dataset Descriprition
+##  Dataset Description
 
 #### Take a first look of our data
 - CUST_ID: Unique identifier for each customer.
